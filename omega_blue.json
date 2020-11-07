@@ -26,15 +26,15 @@
         },
         "Battery": {
             "": "ffffff",
-            "InCharge": "179e1f",
-            "Low": "992321"
+            "InCharge": "2E94AD",
+            "Low": "1E2B70"
         },
         "ScrollBar": {
             "Foreground": "4a4a4a",
             "Background": "d9d9d9"
         },
         "Control": {
-            "": "af2e2e",
+            "": "2E50AD",
             "Enabled": "808080",
             "Disabled": "9e9e9e"
         },
