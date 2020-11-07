@@ -51,9 +51,9 @@
             "Text": "000000",
             "Comment": "999988",
             "Number": "009999",
-            "Keyword": "0040ff",
-            "Operator": "3c63d7",
-            "String": "032f62",
+            "Keyword": "1F226B",
+            "Operator": "032f62",
+            "String": "3c63d7",
             "GutterViewBackground": "E4E6E7"
         },
         "Probability": {
@@ -132,15 +132,15 @@
         "Atom": {
             "Unknown": "eeeeee",
             "Text": "000000",
-            "AlkaliMetal": "0040ff",
-            "AlkaliEarthMetal": "003df5",
-            "Lanthanide": "8ac4ff",
-            "Actinide": "abd1de",
-            "TransitionMetal": "9bbddf",
+            "AlkaliMetal": "ffaa00",
+            "AlkaliEarthMetal": "f6f200",
+            "Lanthanide": "ffaa8b",
+            "Actinide": "deaacd",
+            "TransitionMetal": "de999c",
             "PostTransitionMetal": "9cbaac",
-            "Metalloid": "679ace",
+            "Metalloid": "52ce8b",
             "Halogen": "00debd",
-            "ReactiveNonmetal": "0f0fee",
+            "ReactiveNonmetal": "00ee00",
             "NobleGas": "8baaff",
             "TableLines": "323532"
         }
