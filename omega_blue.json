@@ -137,11 +137,11 @@
             "Lanthanide": "565EBF",
             "Actinide": "82B6D8",
             "TransitionMetal": "7AB4DD",
-            "PostTransitionMetal": "80B7B7",
+            "PostTransitionMetal": "659191",
             "Metalloid": "51CCCC",
             "Halogen": "18CCBD",
-            "ReactiveNonmetal": "96CEFF",
-            "NobleGas": "8baaff",
+            "ReactiveNonmetal": "B5DCFF",
+            "NobleGas": "6B85C4",
             "TableLines": "323532"
         }
     }
